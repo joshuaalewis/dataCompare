@@ -1,0 +1,56 @@
+#drop_zone1 {
+    border: 2px dashed #bbb;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    padding: 25px;
+    text-align: center;
+}
+
+#drop_zone2 {
+    border: 2px dashed #bbb;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    padding: 25px;
+    text-align: center;
+}
+
+.active {
+    color: #111111;
+    font-weight: bold;
+    font-size: large;
+}
+
+.inactive {
+    color: #bbb;
+    font-weight: normal;
+    font-size: medium;
+}
+
+.padded_zone {
+    padding: 25px;
+    text-align: center;
+    color: #bbb;
+}
+
+.left {
+    float: left;
+    text-align: center;
+}
+.w50 {
+    width: 49%;
+}
+
+.smallrow {
+    font-size: small;
+}
+
+.h10 {
+    max-height: 10%;
+}
+
+.w10 {
+    width: 1%;
+    margin: .2em .2em .2em .2em;
+}
